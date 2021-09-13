@@ -1,0 +1,1 @@
+window.addEventListener("load",(function(){var e=document.createElement("h1");e.innerText="Webpack❤️TS Header",document.querySelector("body").prepend(e);var t=document.getElementById("canvas"),n=t.getContext("2d");n.fillStyle="cyan",n.fillRect(0,0,t.width,t.height)}));
